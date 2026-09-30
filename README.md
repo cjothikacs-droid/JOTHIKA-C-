@@ -1,2 +1,2 @@
-# JOTHIKA-C-
-Pocket smart AI
+# pocketsmart-ai
+AI based smart budget and recommendation project
